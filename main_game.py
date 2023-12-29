@@ -202,5 +202,5 @@ while True:
     # Delay
     time.sleep(delay)
 
-# Display the window
+# Display main window
 turtle.mainloop()
