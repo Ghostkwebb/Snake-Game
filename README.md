@@ -133,8 +133,8 @@ https://stackoverflow.com/ <br>
 https://www.youtube.com/ <br>
 https://www.programiz.com/ <br>
 https://www.freecodecamp.org/ <br>
-https://www.simplilearn.com/
-https://www.educative.io/
-https://www.scaler.com/
-https://www.javatpoint.com/
+https://www.simplilearn.com/ <br>
+https://www.educative.io/ <br>
+https://www.scaler.com/ <br>
+https://www.javatpoint.com/ <br>
 
