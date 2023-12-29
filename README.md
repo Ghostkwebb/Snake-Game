@@ -127,12 +127,12 @@ As technology advances, so do the opportunities to enhance classic games. Our jo
 
 # References
 
-https://www.geeksforgeeks.org/
-https://www.w3schools.com/
-https://stackoverflow.com/
-https://www.youtube.com/
-https://www.programiz.com/
-https://www.freecodecamp.org/
+https://www.geeksforgeeks.org/ <br>
+https://www.w3schools.com/  <br>
+https://stackoverflow.com/ <br>
+https://www.youtube.com/ <br>
+https://www.programiz.com/ <br>
+https://www.freecodecamp.org/ <br>
 https://www.simplilearn.com/
 https://www.educative.io/
 https://www.scaler.com/
