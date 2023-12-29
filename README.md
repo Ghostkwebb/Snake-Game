@@ -1,5 +1,5 @@
 # Snake-Game
-My First Python Project
+My First Python Project (Made By Sharad and Mushir)
 
 # Problem Statement
 Challenge Description: Elevating the Classic Snake Game
